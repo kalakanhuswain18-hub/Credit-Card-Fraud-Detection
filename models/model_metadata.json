@@ -1,0 +1,5 @@
+{
+    "model": "LightGBM",
+    "threshold": 0.4,
+    "selection_basis": "Validation precision-recall trade-off"
+}

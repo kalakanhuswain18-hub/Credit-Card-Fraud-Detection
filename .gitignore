@@ -1,7 +1,13 @@
 .venv/
+**/.venv/
 __pycache__/
-*.pyc
+**/__pycache__/
+*.py[cod]
 .ipynb_checkpoints/
 .env
 *.log
 data/raw/
+**/data/raw/
+
+# Nested duplicate project folder
+/Credit-Fraud-Detection/
